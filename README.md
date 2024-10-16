@@ -8,7 +8,7 @@ We tested on a server configured with Ubuntu 18.04, cuda 11.6 and gcc 9.4.0. Oth
 1. Clone this repo:
 
 ```
-git clone https://github.com/city-super/Scaffold-GS.git --recursive
+git clone https://github.com/Bistu3DV/hybridBA.git --recursive
 cd Scaffold-GS
 ```
 
