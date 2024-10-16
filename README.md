@@ -112,7 +112,8 @@ bash single_metrics.sh # Compute error metrics on renderings
 | Glasses case | 31.90| 0.934| 0.186 |
 
 ## Run Script
-train scene from the Tanks&Temples dataset were used as an example.
+Train scene from the Tanks&Temples dataset were used as an example.
+
 1.Change the path to the scene in single_train.sh to the path where the data is stored:
 ```
 scene='tandt/train'
