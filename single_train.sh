@@ -1,8 +1,4 @@
-#scene='mipnerf360/bicycle'
-#scene='Tanks/Francis'
-scene='db/drjohnson/'
-#scene='tandt/truck'
-#scene='xieying/fake_coffee'
+scene='train'
 exp_name='baseline'
 
 voxel_size=0.001
