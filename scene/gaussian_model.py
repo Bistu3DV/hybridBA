@@ -386,7 +386,7 @@ class GaussianModel:
         ## fixme, load init model parameters.
         
         # self.vision_model.setup()
-        load_path = '/data/code0516/HybridNeuralRendering/checkpoints/init/dtu_dgt_d012_img0123_conf_agg2_32_dirclr20/best_net_mvs.pth'
+        load_path = './HybridNeuralRendering/checkpoints/init/dtu_dgt_d012_img0123_conf_agg2_32_dirclr20/best_net_mvs.pth'
         state_dict = torch.load(load_path)
         new_dict = OrderedDict() 
         for key,value in state_dict.items():
