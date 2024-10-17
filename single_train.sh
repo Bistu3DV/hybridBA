@@ -1,4 +1,4 @@
-scene='train'
+scene='tandt/train'
 exp_name='baseline'
 
 voxel_size=0.001
