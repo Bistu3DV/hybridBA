@@ -1,1 +1,1 @@
-python metrics.py --model_paths /data/tant/train
+python metrics.py --model_paths /data/tandt/train
