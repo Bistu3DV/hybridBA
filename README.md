@@ -145,10 +145,10 @@ bash single_metrics.sh
 
 
 ## Contact
-
+zhangbk0566@126.com
 
 ## Citation
-
+https://arxiv.org/pdf/2410.13280
 
 ## LICENSE
 
