@@ -148,12 +148,14 @@ bash single_metrics.sh
 zhangbk0566@126.com
 
 ## Citation
+```
 @article{guo2024hybrid,
   title={Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization},
   author={Guo, Yanan and Xie, Ying and Chang, Ying and Zhang, Benkui and Jia, Bo and Cao, Lin},
   journal={arXiv preprint arXiv:2410.13280},
   year={2024}
 }
+```
 
 ## LICENSE
 
