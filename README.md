@@ -15,7 +15,7 @@ cd hybridBA
 2. Install dependencies
 
 ```
-SET DISTUTILS_USE_SDK=1 # Windows only
+SET DISTUTILS_USE_SDK=1 # Windows only, we don't verified on windons
 conda env create --file environment.yml
 conda activate hybridBA
 ```
